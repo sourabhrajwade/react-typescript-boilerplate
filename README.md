@@ -4,5 +4,5 @@ This template provides a minimal setup to get React and Typescript working in Vi
 
 ## Todo
 
-1. Add Tailwind
+1. <del>Add Tailwind</del>
 2. <del>React Testing Setup</del>
