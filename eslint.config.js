@@ -12,6 +12,8 @@ export default tseslint.config(
     extends: [
       js.configs.recommended,
       ...tseslint.configs.recommended,
+      'plugin:jest-dom/recommended',
+      'plugin:testing-library/react',
       prettier,
     ],
     settings: { react: { version: '18.3' } },
